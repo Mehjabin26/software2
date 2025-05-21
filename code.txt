@@ -1,0 +1,4 @@
+git init 
+git remote add origin +link
+git commit -m "description of work"
+git push origin master
